@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Global Padding -->
+<!--    <dimen name="x_x_x_small_padding">3dp</dimen>-->
+    <dimen name="x_x_small_padding">4dp</dimen>
+    <dimen name="extra_small_padding">8dp</dimen>
+<!--    <dimen name="small_padding">14dp</dimen>-->
+    <dimen name="medium_padding">16dp</dimen>
+<!--    <dimen name="large_padding">24dp</dimen>-->
+<!--    <dimen name="bottom_button_role_screen_padding">29dp</dimen>-->
+    <dimen name="extra_large_padding">32dp</dimen>
+<!--    <dimen name="large_bottom_padding">45dp</dimen>-->
+<!--    <dimen name="small_snackbar_bottom_padding">80dp</dimen>-->
+<!--    <dimen name="medium_snackbar_bottom_padding">170dp</dimen>-->
+
+    <!-- Global Size -->
+<!--    <dimen name="height_card_item">160dp</dimen>-->
+<!--    <dimen name="width_photo_item">400dp</dimen>-->
+<!--    <dimen name="height_photo_item">250dp</dimen>-->
+<!--    <dimen name="height_header_card">82dp</dimen>-->
+<!--    <dimen name="size_start">16dp</dimen>-->
+<!--    <dimen name="width_preview">40dp</dimen>-->
+<!--    <dimen name="height_button">45dp</dimen>-->
+
+    <!-- Global radius -->
+    <dimen name="card_radius">16dp</dimen>
+
+    <!-- Global thickness -->
+    <dimen name="small_thickness">1dp</dimen>
+</resources>

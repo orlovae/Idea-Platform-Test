@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Idea Platform Test</string>
+    <string name="title_main_topbar">Список товаров</string>
+    <string name="card_item_amount">На складе</string>
+    <string name="card_item_date">Дата добавления</string>
+    <string name="search_placeholder">Поиск товаров</string>
+    <string name="dialog_delete_OK">ДА</string>
+    <string name="dialog_delete_NO">НЕТ</string>
+    <string name="dialog_delete_description">Вы действительно хотите удалить выбранный товар?</string>
+    <string name="dialog_delete_title">Удаление товара</string>
+    <string name="dialog_edit_OK">Принять</string>
+    <string name="dialog_edit_NO">Отмена</string>
+    <string name="dialog_edit_amount">Количество товара</string>
+</resources>
