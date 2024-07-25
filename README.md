@@ -13,7 +13,12 @@ DI - Dagger2
 Приложение поддерживает переворот экрана.
 
 Видео работы приложения
-![Video](screenshot/Screen_recording_20240725_174212.mp4)
+
+https://github.com/user-attachments/assets/55af228e-b673-45a1-9f75-cf42c03843c1
+
+
+
+![Video](https://github.com/user-attachments/assets/55af228e-b673-45a1-9f75-cf42c03843c1)
 
 ![Screenshot 01](screenshot/Screenshot_20240725_173847.png)
 ![Screenshot 02](screenshot/Screenshot_20240725_173957.png)
